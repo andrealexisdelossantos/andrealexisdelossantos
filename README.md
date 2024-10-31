@@ -1,7 +1,8 @@
-## Andrea Alexis Delos Santos 
-## 2nd yr of Bachelor of Science in Information Technology
-## https://courses.cognitiveclass.ai/certificates/99270179bbfe4279a2785a21061ddf09
-## Java,JavaScript,SQl
+## Name: Andrea Alexis Delos Santos 
+## Education: Bachelor of Science in Information Technology
+## Certifications:
+https://courses.cognitiveclass.ai/certificates/99270179bbfe4279a2785a21061ddf09
+## Skillsets: Java,JavaScript,SQl
 
 
 
