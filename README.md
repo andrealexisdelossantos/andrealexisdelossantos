@@ -1,5 +1,5 @@
 ## Andrea Alexis Delos Santos 
-## Bachelor of Science in Information Technology 
+## 2nd yr of Bachelor of Science in Information Technology 
 
 
 <!--
