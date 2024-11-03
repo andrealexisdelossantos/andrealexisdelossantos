@@ -2,7 +2,7 @@
 ## Education: Bachelor of Science in Information Technology
 ## Certifications:
 https://courses.cognitiveclass.ai/certificates/99270179bbfe4279a2785a21061ddf09
-## Skillsets: Java,JavaScript,SQl
+## Skillsets: Java,JavaScript,HTML,SQl
 
 
 
