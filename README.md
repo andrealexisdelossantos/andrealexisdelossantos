@@ -2,6 +2,8 @@
 ## Education: Bachelor of Science in Information Technology
 ## Certifications:
 https://courses.cognitiveclass.ai/certificates/99270179bbfe4279a2785a21061ddf09
+## ORACLE
+## [OCI FOUNDATIONS ASSOCIATE](https://objectstorage.us-phoenix-1.oraclecloud.com/p/c3pofC7CHkSqKCRIe7q91rfgM9hXgQQW-GN-CtR9tbzkW4HIN0H02OJ8xwoeHPO_/n/axdnydvy8b2d/b/BCKMLPHXDEV_IMAGES/o/img/PROD/Learning-Path_badge_default.png)
 ## Skillsets: Java,JavaScript,HTML,SQl
 
 
